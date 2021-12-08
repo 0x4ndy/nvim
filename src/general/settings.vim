@@ -9,3 +9,5 @@
 set encoding=UTF-8
 
 set timeoutlen=500
+
+set hidden

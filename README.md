@@ -1,4 +1,5 @@
 # nvim
+Install ``neovim`` -> https://github.com/neovim/neovim
 Install ``vim-plug`` -> https://github.com/junegunn/vim-plug
 Install ``yarn``:
 ```bash

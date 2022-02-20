@@ -11,5 +11,6 @@ Plug 'https://github.com/joshdick/onedark.vim' " Josh Dick's One Dark theme
 Plug 'https://github.com/kyazdani42/nvim-web-devicons' " Icons
 Plug 'https://github.com/romgrk/barbar.nvim' " Barbar
 Plug 'https://github.com/liuchengxu/vim-which-key' " Which Key
+Plug 'https://github.com/lervag/vimtex' " LaTeX
 
 call plug#end()

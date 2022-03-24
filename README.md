@@ -1,9 +1,10 @@
 # nvim
+Install ``npm`` -> https://github.com/nvm-sh/nvm
 Install ``neovim`` -> https://github.com/neovim/neovim
 Install ``vim-plug`` -> https://github.com/junegunn/vim-plug
 Install ``yarn``:
 ```bash
-sudo npm install -g yarn
+npm install -g yarn
 cd ~/.config/nvim/plugged/coc.nvim
 yarn install
 ```

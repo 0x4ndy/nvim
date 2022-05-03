@@ -1,7 +1,10 @@
 # nvim
 Install ``npm`` -> https://github.com/nvm-sh/nvm
+
 Install ``neovim`` -> https://github.com/neovim/neovim
+
 Install ``vim-plug`` -> https://github.com/junegunn/vim-plug
+
 Install ``yarn``:
 ```bash
 npm install -g yarn
@@ -16,3 +19,5 @@ Python: ``coc-pyright`` -> https://github.com/fannheyward/coc-pyright
 
 Rust: ``coc-rls`` -> https://github.com/neoclide/coc-rls
 
+## Resources
+This config is based on: https://github.com/LunarVim/Neovim-from-scratch

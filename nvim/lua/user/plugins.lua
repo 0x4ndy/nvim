@@ -48,6 +48,7 @@ return packer.startup(function(use)
   -- Color schemes
   -- use "folke/tokyonight.nvim"
   use "lunarvim/darkplus.nvim"
+  use "ayu-theme/ayu-vim"
 
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
